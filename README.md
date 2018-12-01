@@ -25,5 +25,5 @@ conda activate itds
 ### Step 4: Install packages
 
 ```
-conda install pandas seaborn matplotlib numpy statsmodels.api sklearn
+conda install pandas seaborn matplotlib numpy statsmodels scikit-learn
 ```
